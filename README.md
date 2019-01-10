@@ -17,6 +17,6 @@ I took several approches to the MNIST dataset problem and copied the files for t
   - This made some modifications to the network and changed from 30 epochs to 100
   - Scored 99.628%
 
-  The neral networks were ran on a Vega Frontier Edition GPU using Metal by making use of PlaidML and Keras
+  The neural networks were ran on a Vega Frontier Edition GPU using Metal by making use of PlaidML and Keras
 
   Datasets used can be downloaded [here](https://mega.nz/#!3PRARAoR!8gpu5z5O8dGjhuY9LzVYMjVwM-auzwJfvjH0I6PR33Q)
